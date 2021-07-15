@@ -225,7 +225,7 @@ footer {
   height: 100vh;
   min-height: 500px;
   max-height: 1080px;
-  background: url(../images/lead-bg1.jpg);
+  background: url(../images/lead-bg.jpg);
   background-size: cover;
   padding: 15px;
   overflow: hidden;
@@ -245,7 +245,7 @@ footer {
 #lead-content h1 {
   color: #fff;
   font-weight: 900;
-  font-size: 3em;
+  font-size: 4em;
   text-transform: uppercase;
   letter-spacing: 0.05em;
   line-height: 0.9em;
